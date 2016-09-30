@@ -15,6 +15,8 @@ Please ensure your pull request adheres to the following guidelines:
     > quote from the maintainer
 
     extra comments
+
+    ---
 ```
 
 - Additions should be added to the bottom of the relevant category.
