@@ -155,6 +155,15 @@ Support Node-like module loaders, by @isaacs
 
 ---
 
+https://github.com/facebook/react/pull/7616
+
+Generate SimpleEventPlugin data structures at runtime, by @vjeux
+
+> (Accepted for the historical record.) -- @spicyj
+
+---
+
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
