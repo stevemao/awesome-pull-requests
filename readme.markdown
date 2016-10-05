@@ -163,6 +163,13 @@ Generate SimpleEventPlugin data structures at runtime, by @vjeux
 
 ---
 
+https://github.com/Microsoft/TypeScript/pull/11267
+
+Add jsxFactory compiler option, by @bradleyayers
+
+
+
+---
 
 ## License
 
