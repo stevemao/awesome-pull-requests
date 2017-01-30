@@ -167,6 +167,11 @@ https://github.com/Microsoft/TypeScript/pull/11267
 
 Add jsxFactory compiler option, by @bradleyayers
 
+---
+
+https://github.com/rollup/rollup/pull/774
+
+Avoid lazy parsing by adding parens around factory, by @bmaurer
 
 
 ---
